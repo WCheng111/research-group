@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 2022 Ph.D
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: More is different.
+    url: 'https://www.science.org/doi/10.1126/science.177.4047.393'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
