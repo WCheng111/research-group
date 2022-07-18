@@ -29,7 +29,7 @@ education:
   courses:
     - course: Ph.D in condensed matter physics
       institution: Huazhong University of Science and Technology
-      year: 2021-presen
+      year: 2021-present
     - course: Bachelor in physics
       institution: Wuhan University of Technology
       year: 2017-2021
@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'wcheng@hust.edu.cn'
+    link: 'mailto:wcheng@hust.edu.cn'
   - icon: github
     icon_pack: fab
     link: https://github.com/WCheng111
