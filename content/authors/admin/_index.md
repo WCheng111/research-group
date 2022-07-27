@@ -23,13 +23,13 @@ interests:
 education:
   courses:
   - course: Postdoctoral
-      institution: [Sankar Das Sarma](https://umdphysics.umd.edu/people/faculty/current/item/114-dassarma.html) in University of Maryland
+      institution: Sankar Das Sarma in University of Maryland
       year: 2014-2015
   - course: Postdoctoral
-      institution: [Jainendra K Jain](https://science.psu.edu/physics/people/jainendra-k-jain) And [Chaoxing Liu](https://science.psu.edu/physics/people/chaoxing-liu) in University of Pennsylvania
+      institution: Jainendra K Jain And Chaoxing Liu in University of Pennsylvania
       year: 2012-2014
     - course: PhD in Condensed Matter Physics
-      institution: Texas A&M University（Tutor：[Jairo Sinova](https://www.sinova-group.physik.uni-mainz.de/team/jairo-sinova/)
+      institution: Texas A&M University(Tutor：Jairo Sinova)
       year: 2006-2012
     - course: Master in  theoretical physics
       institution: Chern Institute of Mathematics, Nankai University
