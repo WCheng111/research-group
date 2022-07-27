@@ -22,15 +22,22 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: Postdoctoral
+      institution: [Sankar Das Sarma](https://umdphysics.umd.edu/people/faculty/current/item/114-dassarma.html) in University of Maryland
+      year: 2014-2015
+  - course: Postdoctoral
+      institution: [Jainendra K Jain](https://science.psu.edu/physics/people/jainendra-k-jain) And [
+Chaoxing Liu](https://science.psu.edu/physics/people/chaoxing-liu) in University of Pennsylvania
+      year: 2012-2014
+    - course: PhD in Condensed Matter Physics
+      institution: Texas A&M University（Tutor：[Jairo Sinova](https://www.sinova-group.physik.uni-mainz.de/team/jairo-sinova/)）
+      year: 2006-2012
+    - course: Master in  theoretical physics
+      institution: Chern Institute of Mathematics, Nankai University
+      year: 2003-2006
+    - course: Bachelor in physics
+      institution: Nankai University
+      year: 1999-2003
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
