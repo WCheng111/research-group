@@ -22,10 +22,10 @@ interests:
 
 education:
   courses:
-  - course: Postdoctoral
+    - course: Postdoctoral
       institution: Sankar Das Sarma in University of Maryland
       year: 2014-2015
-  - course: Postdoctoral
+    - course: Postdoctoral
       institution: Jainendra K Jain And Chaoxing Liu in University of Pennsylvania
       year: 2012-2014
     - course: PhD in Condensed Matter Physics
