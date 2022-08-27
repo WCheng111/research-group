@@ -17,7 +17,8 @@ design:
   css_class:
 ---
 
-<br>
-Our Group is a theoretical group focus in Topological Quantum Physics：      
-1.**High-order Topological Insulator**：Topological insulator is a very beautiful find in condens matter physics.  
+Our Group is a theoretical group focus in Topological Quantum Physics： 
+    
+1.**High-order Topological Insulator**：Topological insulator is a very beautiful find in condens matter physics.
+
 2.**Topological Quantum Computation**：
