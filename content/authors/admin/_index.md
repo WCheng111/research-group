@@ -29,7 +29,7 @@ education:
       institution: University of Pennsylvania.Supervisor:ChaoXing Liu
       year: 2012-2014
     - course: PhD in Condensed Matter Physics
-      institution: Texas A&M University(Tutor：Jairo Sinova)
+      institution: Texas A&M University(Tutor：[Jairo Sinova](https://www.sinova-group.physik.uni-mainz.de/team/jairo-sinova/))
       year: 2006-2012
     - course: Master in  theoretical physics
       institution: Chern Institute of Mathematics, Nankai University.Adavisor:MoLin Ge
