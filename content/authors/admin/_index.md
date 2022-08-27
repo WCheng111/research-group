@@ -26,13 +26,17 @@ education:
       institution: Sankar Das Sarma in University of Maryland
       year: 2014-2015
     - course: Postdoctoral
-      institution: Jainendra K Jain And Chaoxing Liu in University of Pennsylvania
+      institution: University of Pennsylvania.Supervisor:ChaoXing Liu
       year: 2012-2014
     - course: PhD in Condensed Matter Physics
+<<<<<<< HEAD
       institution: Texas A&M University(Tutor：[Jairo Sinova](https://www.sinova-group.physik.uni-mainz.de/team/jairo-sinova/))
+=======
+      institution: Texas A&M University.Adavisor:Jairo Sinova
+>>>>>>> c0c5aa8b5f6d5ce16d9f9b306b4aca137451f509
       year: 2006-2012
     - course: Master in  theoretical physics
-      institution: Chern Institute of Mathematics, Nankai University
+      institution: Chern Institute of Mathematics, Nankai University.Adavisor:MoLin Ge
       year: 2003-2006
     - course: Bachelor in physics
       institution: Nankai University
