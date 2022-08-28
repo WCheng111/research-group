@@ -22,14 +22,17 @@ interests:
 
 education:
   courses:
+    - course: Professor
+      institution: Huazhong university of science and technology
+      year: 2015-present
     - course: Postdoctoral
-      institution: Sankar Das Sarma in University of Maryland
+      institution: University of Maryland.Supervisor:Sankar Das Sarma
       year: 2014-2015
     - course: Postdoctoral
-      institution: University of Pennsylvania.Supervisor:ChaoXing Liu
+      institution: University of Pennsylvania.Supervisor:Jainendra Jain,ChaoXing Liu
       year: 2012-2014
     - course: PhD in Condensed Matter Physics
-      institution: Texas A&M University(Tutor：[Jairo Sinova](https://www.sinova-group.physik.uni-mainz.de/team/jairo-sinova/))
+      institution: Texas A&M University(Tutor：Jairo Sinova)
       year: 2006-2012
     - course: Master in  theoretical physics
       institution: Chern Institute of Mathematics, Nankai University.Adavisor:MoLin Ge
@@ -73,6 +76,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Xin Liu(刘鑫) is a professor in the Huazhong University of Science and Technology.
